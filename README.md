@@ -14,3 +14,8 @@ qwen
 ---
 
 #### Manual Installation
+##### Note: Make sure you have Node.js 20 or later installed. Download it from nodejs.org .
+```bash
+npm install -g @qwen-code/qwen-code@latest
+```
+---
