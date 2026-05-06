@@ -31,3 +31,12 @@ qwen
 /auth
 ```
 ---
+
+#### Start your first session
+```bash
+# optiona
+cd /path/to/your/project
+# start qwen
+qwen
+```
+---
