@@ -12,3 +12,5 @@ cd your-project
 qwen
 ```
 ---
+
+#### Manual Installation
